@@ -58,7 +58,7 @@ This license ensures that the Reality codebase remains free and open for all. An
 
 ## Disclaimer
 
-The Reality repository is a project of experimental software engineering. While our goal is the absolute reproduction of reality, the authors accept no responsibility for unexpected spacetime distortions, temporal paradoxes, or existential dread that may arise from successful execution of this code.
+The Reality repository is a project of experimental software engineering. While our goal is the absolute reproduction of reality, the authors accept no responsibility for unexpected spacetime distortions, temporal paradoxes, or kernel failures that may arise when using this software.
 
 **Proceed with caution.**
 
